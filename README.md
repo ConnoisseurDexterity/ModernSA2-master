@@ -8,3 +8,5 @@ To make it easy to collaborate and work on the code. I'm new to programming, so 
 
 ## What do you actually do with code?
 I work on the nitty gritty details of sound, keyframes and animation code so characters in MSA2 all sound unique and animate a little better. I also merge some code here and there. That's pretty much it lol.
+
+Hoppy works on all the saucy stuff that makes this mod fantastic!
